@@ -2,3 +2,4 @@
 
 ## Descripcion: 
 - Proyecto de Practica de Aginatura Metodologia Agil
+- Cambios realizados en la rama de desarrollo (dev)
